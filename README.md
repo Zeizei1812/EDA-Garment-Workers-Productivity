@@ -11,7 +11,7 @@ statistical modeling and visualization techniques to understand key influencing 
 ---
 
 ## Authors
-- **Amadou Hainikoye**
+- **Amadou Hainikoye Zeinabou (me)**
 - **Damien Levacher**
 
 ---
